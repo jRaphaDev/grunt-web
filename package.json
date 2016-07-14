@@ -1,0 +1,12 @@
+{
+  "name": "project_name",
+  "version": "1.0.0",
+  "title": "Project Title",
+  "homepage": "http://www.mysite.com.br",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
